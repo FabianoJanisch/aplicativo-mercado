@@ -1,4 +1,4 @@
-# green
+# Aplicativo para compras em um hortifruti
 
 A new Flutter project.
 
