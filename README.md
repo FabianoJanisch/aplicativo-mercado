@@ -1,4 +1,4 @@
-# Aplicativo para compras em um hortifruti
+# Aplicativo para compras Hortifruti
 
 A new Flutter project.
 
